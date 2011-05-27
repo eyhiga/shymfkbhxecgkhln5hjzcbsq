@@ -1,0 +1,4 @@
+[nd30] 
+min sum(c_i_j * x_i_j)
+sum(w_i_j) <= K
+nao consegui imaginar a restricao pra garantir que o caminho seja satisfeito
